@@ -54,17 +54,17 @@
   </div>
 
   <div id="balloon-container" class="hidden">
-    <img src="https://i.imgur.com/IOX2Y8n.png" class="balloon" onclick="popBalloon(0)" alt="Red Balloon">
-    <img src="https://i.imgur.com/6vZCq4w.png" class="balloon" onclick="popBalloon(1)" alt="Blue Balloon">
-    <img src="https://i.imgur.com/IOX2Y8n.png" class="balloon" onclick="popBalloon(2)" alt="Red Balloon">
-    <img src="https://i.imgur.com/6vZCq4w.png" class="balloon" onclick="popBalloon(3)" alt="Blue Balloon">
+    <img src="https://i.imgur.com/WFOTCUh.png" class="balloon" onclick="popBalloon(0)" alt="Red Balloon">
+    <img src="https://i.imgur.com/L3RzB4D.png" class="balloon" onclick="popBalloon(1)" alt="Blue Balloon">
+    <img src="https://i.imgur.com/WFOTCUh.png" class="balloon" onclick="popBalloon(2)" alt="Red Balloon">
+    <img src="https://i.imgur.com/L3RzB4D.png" class="balloon" onclick="popBalloon(3)" alt="Blue Balloon">
   </div>
 
   <div id="messages"></div>
   <div id="final-message" class="hidden"></div>
 
   <audio id="birthday-audio" preload="auto">
-    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+    <source src="https://www.bensound.com/bensound-music/bensound-birthday.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 
